@@ -1,0 +1,2 @@
+# Bimaru
+Artificial Intelligence Project
